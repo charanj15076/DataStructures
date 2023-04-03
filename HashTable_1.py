@@ -6,7 +6,7 @@ Created on Mon Apr  3 14:33:27 2023
 @author: charan
 """
 
-class HashTable:
+class HashTable():
     def __init__(self,size):
         
         self.length = size
