@@ -6,7 +6,7 @@ Created on Mon Apr  3 14:14:38 2023
 @author: charan
 """
 
-class MyArray:
+class MyArray():
     
     def __init__(self):
         self.length = 0
